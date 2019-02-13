@@ -10,7 +10,7 @@
 
 
 public partial class CMSModules_Workflows_Workflow_Documents {
-    
+
     /// <summary>
     /// pnlLog control.
     /// </summary>
@@ -19,7 +19,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Panel pnlLog;
-    
+
     /// <summary>
     /// ctlAsyncLog control.
     /// </summary>
@@ -28,7 +28,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMSAdminControls_AsyncLogDialog ctlAsyncLog;
-    
+
     /// <summary>
     /// pnlContent control.
     /// </summary>
@@ -37,7 +37,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Panel pnlContent;
-    
+
     /// <summary>
     /// plcFilter control.
     /// </summary>
@@ -46,7 +46,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.PlaceHolder plcFilter;
-    
+
     /// <summary>
     /// filterDocuments control.
     /// </summary>
@@ -55,7 +55,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMSFormControls_Filters_DocumentFilter filterDocuments;
-    
+
     /// <summary>
     /// pnlUpdate control.
     /// </summary>
@@ -64,7 +64,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMS.Base.Web.UI.CMSUpdatePanel pnlUpdate;
-    
+
     /// <summary>
     /// docElem control.
     /// </summary>
@@ -73,7 +73,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMSModules_AdminControls_Controls_Documents_Documents docElem;
-    
+
     /// <summary>
     /// pnlFooter control.
     /// </summary>
@@ -82,7 +82,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Panel pnlFooter;
-    
+
     /// <summary>
     /// drpWhat control.
     /// </summary>
@@ -91,7 +91,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMS.Base.Web.UI.CMSDropDownList drpWhat;
-    
+
     /// <summary>
     /// drpAction control.
     /// </summary>
@@ -100,7 +100,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMS.Base.Web.UI.CMSDropDownList drpAction;
-    
+
     /// <summary>
     /// btnOk control.
     /// </summary>
@@ -109,7 +109,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::CMS.Base.Web.UI.LocalizedButton btnOk;
-    
+
     /// <summary>
     /// lblValidation control.
     /// </summary>
@@ -118,7 +118,7 @@ public partial class CMSModules_Workflows_Workflow_Documents {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Label lblValidation;
-    
+
     /// <summary>
     /// ltlScript control.
     /// </summary>

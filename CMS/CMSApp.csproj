@@ -28,6 +28,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <OldToolsVersion>4.0</OldToolsVersion>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition="'$(CMSAzureBuild)' == ''">
     <CMSAzureBuild>false</CMSAzureBuild>
